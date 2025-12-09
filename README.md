@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/repo.json
 | **Simple Heels** | 0.10.6.2 | 穿著 Mod 高跟鞋時調整角色位置 |
 | **Brio** | 0.5.1.0 | GPose 增強工具，用於拍照與動作控制 |
 | **Glamourer** | 1.4.0.1 | 外觀修改與儲存工具（需要 Penumbra）- **已修改支援中文名稱** |
-| **Customize+** | 2.0.7.22 | 透過編輯骨骼參數自訂角色外觀 |
+| **Customize+** | 2.0.7.22 | 透過編輯骨骼參數自訂角色外觀 - **已修改支援中文名稱** |
 | **Aetherment** | 0.3.3 | Mod 瀏覽、安裝與自動更新工具 |
 
 ## 為什麼需要這個倉庫？
@@ -61,10 +61,25 @@ https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW/main/repo.json
 - [cycleapple/Glamourer](https://github.com/cycleapple/Glamourer/tree/fix-player-detection)
 - [cycleapple/Penumbra.GameData](https://github.com/cycleapple/Penumbra.GameData/tree/fix-non-western-clients)
 
+### Customize+
+
+此版本的 Customize+ 是基於 [Aether-Tools/CustomizePlus testing_2.0.7.22](https://github.com/Aether-Tools/CustomizePlus/releases/tag/testing_2.0.7.22) 修改而成。
+
+**修改內容：**
+- 修復中文/台服客戶端無法偵測玩家角色的問題
+- 與 Glamourer 相同的問題和修復方式
+
+**修改的檔案：**
+- `Penumbra.GameData/Interop/Actor.cs` - 關閉嚴格的名稱/世界驗證
+
+**Fork 來源：**
+- [cycleapple/CustomizePlus](https://github.com/cycleapple/CustomizePlus/tree/fix-non-western-clients)
+- [cycleapple/Penumbra.GameData](https://github.com/cycleapple/Penumbra.GameData/tree/fix-non-western-clients-cp)
+
 ## 注意事項
 
 - 這些插件是從官方源碼編譯的 API12 版本
-- Glamourer 經過修改以支援中文名稱
+- Glamourer 和 Customize+ 經過修改以支援中文名稱
 - 版本可能落後於官方最新版本
 - 如有問題請在 Issues 中回報
 
