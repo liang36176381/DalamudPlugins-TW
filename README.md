@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/main/repo.json
 
 | 插件 | 版本 | 說明 |
 |------|------|------|
-| (**Bossmod Reborn**)[https://github.com/FFXIV-CombatReborn/BossmodReborn] | 7.2.5.109 | Mod 載入器與管理工具 |
+| -(**Bossmod Reborn**)[https://github.com/FFXIV-CombatReborn/BossmodReborn] | 7.2.5.109 | Mod 載入器與管理工具 |
 
 ## 為什麼需要這個倉庫？
 
