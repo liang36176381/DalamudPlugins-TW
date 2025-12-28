@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/magejiaaa/DalamudPlugins-TW/main/repo.json
 | [**Wrath Combo**](https://github.com/MeowZWR/WrathCombo) | 1.0.1.18 | 一鍵技能循環收錄的是漢化版 |
 | [**AntiAfkKick**](https://github.com/NightmareXIV/AntiAfkKick) | 2.1.0.7 | 防止閒置太久被踢下線 |
 | [**AutoRetainer**](https://github.com/PunishXIV/AutoRetainer) | 4.5.0.4 | 雇員相關 |
-| [**AutoReSaucytainer**](https://github.com/PunishXIV/Saucy) | 1.4.2.0 | 金蝶相關 |
+| [**Saucy**](https://github.com/PunishXIV/Saucy) | 1.4.2.0 | 金蝶相關 |
 | [**NoClippy**](https://github.com/UnknownX7/NoClippy) | 0.5.0.18 | 不知道是二插還三插 |
 | [**NecroLens**](https://github.com/Jukkales/NecroLens) | 1.0.8.11 | 深宮小精靈 |
 | [**AutoDuty**](https://github.com/ffxivcode/AutoDuty) | 0.0.0.228 | 副本小精靈 |
